@@ -5,7 +5,7 @@ python-multipart  # for file uploads
 
 # LangChain & Ecosystem
 langchain
-langchain-community
+langchain-community 
 langchain-core
 langchain-groq
 
